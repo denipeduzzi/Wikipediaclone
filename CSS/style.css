@@ -1,0 +1,62 @@
+header{
+  background: white;
+}
+nav{
+  background: white;
+}
+
+section{
+  background: white;
+  width: 70%;
+  margin: 0 auto;
+  min-height: 70vh;
+}
+
+footer {
+  background: #263238;
+height: 80px;
+}
+
+a {
+  color:  inherit;
+}
+
+body {
+  background: white;
+  color: grey;
+  font-family: Arial;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-align: justify;
+  }
+
+h1 {
+ font-family: Times New Roman; 
+}
+
+ul {
+  display: inline-block;
+  float: right;
+}
+ul li{
+  display: inline-block;
+}
+
+nav ul li a {
+  background: #78909c;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+nav ul li a: hover
+
+.logo{
+  width: 70px;
+}
+
+.card{
+  width: 46%;
+  float: left;
+  margin: 2%;
+}
